@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\Azure\\AzureDeploy\\AzureDeploy\\AzureDeploy.csproj",
+      "projectUniqueName": "C:\\Training\\AzureDeploy\\AzureDeploy\\AzureDeploy.csproj",
       "projectName": "AzureDeploy",
-      "projectPath": "C:\\Training\\Azure\\AzureDeploy\\AzureDeploy\\AzureDeploy.csproj",
+      "projectPath": "C:\\Training\\AzureDeploy\\AzureDeploy\\AzureDeploy.csproj",
       "packagesPath": "C:\\Users\\sacgaikwad\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\Azure\\AzureDeploy\\AzureDeploy\\obj\\",
+      "outputPath": "C:\\Training\\AzureDeploy\\AzureDeploy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
